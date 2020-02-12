@@ -11,3 +11,5 @@ function addToCart(itemToCart) {
         cartItems[index].count++; 
     }
 }
+
+// !!בהצלחה אחי 
